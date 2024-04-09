@@ -1,0 +1,26 @@
+{
+  "name": "react01",
+  "version": "1.0.0",
+  "description": "Namaste React 02",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vignesh5oct/react01.git)"
+  },
+  "author": "Vignesh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 Chrome version",
+    "last 10 Firefox versions"
+  ]
+}
