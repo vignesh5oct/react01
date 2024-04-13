@@ -1,3 +1,5 @@
 /node_modules
 /dist
 .parcel-cache
+api.js
+assignment03.js
