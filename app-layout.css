@@ -42,11 +42,42 @@
     padding: 10px;
     font-size: 30px;
 }
+.search-btn{
+    padding: 10px;
+    margin: 8px;
+    
+
+}
 .restaurant-logo{
     width: 100%;
 }
 .search-bar{
-    width: 200px;
+    width: 300px;
     padding: 10px;
     size: 40px;
+}
+.filter-top-list-btn{
+    width: 250px;
+    padding: 10px;
+    size: 40px;
+}
+.filter-reset-btn{
+    margin: 10px;
+    width: 120px;
+    padding: 10px;
+    size: 40px;
+
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-cards{
+    margin: 20px;
+    width: 250px;
+    height: 500px;
+    background-color: antiquewhite;
+}
+.login{
+    cursor: pointer;
 }
