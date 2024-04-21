@@ -81,3 +81,6 @@
 .login{
     cursor: pointer;
 }
+.item-category{
+    display: flex;
+}
